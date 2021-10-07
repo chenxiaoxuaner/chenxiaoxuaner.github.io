@@ -33,7 +33,7 @@ header div a:hover{
 
 /* banner样式 */
 #banner {
-    height: 470px;
+    height: 270px;
     width: 1140;
     padding-top: 10px;
     background-color: #fff;
@@ -84,7 +84,8 @@ footer {
 }
 footer div {
     line-height: 100px;
-    
+    text-align: center;
+
 }
 footer div ul li {
     float: left;
@@ -95,4 +96,9 @@ footer div ul li {
 footer div ul li a {
     color: #ddd8d8;
 
+}
+
+footer div span {
+    color: #ddd8d8;
+    margin-right: 20px;
 }

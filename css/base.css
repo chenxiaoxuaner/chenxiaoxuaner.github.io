@@ -30,7 +30,8 @@ a {
 }
 
 a:hover {
-    color: #c81623
+    /* color: #c81623京东红 */
+    color: chocolate
 }
 
 button, input {
