@@ -72,9 +72,21 @@ header div a:hover{
 }
 
 
-
+/* content部分的内容样式 */
 #content {
-    height: 200px;
+    height: 480px;
+}
+#content div span {
+    margin-left: 20px;
+    font-size: larger;
+    font-weight: 700;
+}
+#content div ul li {
+    float: left;
+}
+
+#content div ul li img {
+    width: 228px;
 }
 
 /* footer内容 */
